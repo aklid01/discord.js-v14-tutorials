@@ -1,3 +1,3 @@
-# Discord V14 Tutorials codes.
+# Discord V14 Tutorials (Deprecated)
 
-This is the official repo for [@ishandev2004's coding tutorials](https://www.youtube.com/channel/UCOlfREuwZ1tLGsf9BLyM8gA)
+This is the official repo for @ishandev2004's coding tutorials.
